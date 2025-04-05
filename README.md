@@ -37,5 +37,5 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
