@@ -37,5 +37,5 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
