@@ -9,8 +9,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: Discord bots, tools and fun projects
-- 🌱 I’m currently learning: Python, JavaScript, HTML/CSS
+- 🔭 I’m currently working on: Discord bots, tools, and fun projects
+- 🌱 I’m currently learning: Python, C++, C#, Batch
 - 🤝 I’m open to collaborate on: anything cool or fun!
 - 💬 Ask me about: Making Discord tools, automating stuff, and goofing around with code
 - 📫 How to reach me: [Discord](https://discord.gg/zrZt7PHtnA)
@@ -21,9 +21,9 @@
 ### 🧰 Tools & Languages I Use
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/batch/batch-file-original.svg" width="40"/>
 </p>
 
 ---
@@ -38,3 +38,4 @@
 
 ### 🐍 Contribution Snake
 ![snake gif](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+
