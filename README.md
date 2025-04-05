@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning: Python, JavaScript, HTML/CSS
 - 🤝 I’m open to collaborate on: anything cool or fun!
 - 💬 Ask me about: Making Discord tools, automating stuff, and goofing around with code
-- 📫 How to reach me: [Discord](https://discord.gg/MshacGYPrK)
+- 📫 How to reach me: [Discord](https://discord.gg/zrZt7PHtnA)
 - 🧠 Fun fact: I really like glitchy Sonic art
 
 ---
@@ -37,4 +37,4 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/Malfol/Malfol/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
